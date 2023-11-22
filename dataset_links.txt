@@ -1,0 +1,6 @@
+Original dataset:
+https://www.kaggle.com/datasets/Cornell-University/arxiv/versions/152
+
+Modified dataset:
+https://www.kaggle.com/datasets/lucasnoritomihartwig/arxiv-dataset-titles/data
+
