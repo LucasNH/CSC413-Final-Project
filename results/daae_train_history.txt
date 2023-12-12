@@ -1,0 +1,10 @@
+[Iter 10] Rec Loss 7.032073, Adv Loss 0.875305, Valid Loss 8.621723
+[Iter 20] Rec Loss 5.814945, Adv Loss 0.792893, Valid Loss 7.031911
+[Iter 30] Rec Loss 4.653216, Adv Loss 0.810063, Valid Loss 5.816650
+[Iter 40] Rec Loss 4.327830, Adv Loss 0.811227, Valid Loss 4.894801
+[Iter 50] Rec Loss 4.068055, Adv Loss 0.869569, Valid Loss 4.430194
+[Iter 60] Rec Loss 3.694178, Adv Loss 0.773734, Valid Loss 4.158050
+[Iter 70] Rec Loss 3.251938, Adv Loss 0.658930, Valid Loss 4.495403
+[Iter 80] Rec Loss 3.040337, Adv Loss 0.756794, Valid Loss 4.645204
+[Iter 90] Rec Loss 3.289602, Adv Loss 0.730315, Valid Loss 4.228387
+[Iter 100] Rec Loss 3.989055, Adv Loss 0.740683, Valid Loss 4.376577

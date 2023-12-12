@@ -1,0 +1,12 @@
+Query Title:  <unk> : Neural Two - Stage Robust Optimization 
+=== RECOMMENDATIONS ===
+[tensor(2), tensor(15), tensor(27), tensor(512), tensor(10), tensor(96), tensor(3), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1)]
+Hit 1:  Neural Network Verification in Control , Distance: 1508.4526921222762
+[tensor(2), tensor(9713), tensor(15), tensor(339), tensor(90), tensor(3), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1)]
+Hit 2:  Backdooring Neural Code Search , Distance: 1603.6971559259684
+[tensor(2), tensor(1748), tensor(216), tensor(25), tensor(13), tensor(3861), tensor(8938), tensor(3), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1)]
+Hit 3:  Driver Identification via the Steering Wheel , Distance: 1527.5710059365404
+[tensor(2), tensor(62), tensor(736), tensor(2953), tensor(5), tensor(532), tensor(29), tensor(44), tensor(3), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1)]
+Hit 4:  Generative Compositional Augmentations for Scene Graph Prediction , Distance: 1616.0026830726522
+[tensor(2), tensor(8647), tensor(147), tensor(67), tensor(3), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1), tensor(1)]
+Hit 5:  Ancestral Causal Inference , Distance: 1613.3657950014488

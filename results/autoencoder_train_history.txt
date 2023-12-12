@@ -1,0 +1,10 @@
+[Iter 10] Loss 0.239711 Validation Loss 1.285856
+[Iter 20] Loss 0.173444 Validation Loss 0.973812
+[Iter 30] Loss 0.134853 Validation Loss 0.842593
+[Iter 40] Loss 0.097751 Validation Loss 0.696228
+[Iter 50] Loss 0.125816 Validation Loss 0.747692
+[Iter 60] Loss 0.101395 Validation Loss 0.739885
+[Iter 70] Loss 0.123805 Validation Loss 0.713935
+[Iter 80] Loss 0.112556 Validation Loss 0.723145
+[Iter 90] Loss 0.106693 Validation Loss 0.663777
+[Iter 100] Loss 0.115408 Validation Loss 0.630296
